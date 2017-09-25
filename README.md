@@ -1,3 +1,9 @@
+##### AP's Make goals:
+
+- make pipeline with R code
+- pipeline for combining anonimized data batches into MLH1 datasheet then updating reports
+- pipeline for keeping track of stained and imaged slides
+
 make-novice
 ===========
 
